@@ -1,0 +1,2 @@
+{'task': 'file read and write', 'status': False}
+{'task': 'nothing', 'status': False}
